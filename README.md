@@ -1,46 +1,54 @@
-<!-- Animated GitHub Profile README for Muhammad Ahsan -->
+# 🧑‍💻 GitHub Profile Content Options — Muhammad Ahsan
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Hey+there!+👋;I'm+Muhammad+Ahsan;2nd+Semester+CS+Student+at+UBIT;Learning+Web+App+Development+💻" alt="Typing Animation" />
-</h1>
-
----
-
-### 👨‍💻 About Me  
-🎓 I'm a **Computer Science student (2nd semester)** at [UBIT, University of Karachi](https://www.uok.edu.pk/faculties/ubit/).  
-💡 Currently learning **Web Application Development** — building projects with **HTML, CSS, JavaScript**, and soon diving into **Node.js & React**.  
-🚀 Passionate about creating responsive, modern, and user-friendly web applications.  
-📘 Exploring **Git, GitHub**, and collaborative development.
+Below are **three polished README templates** you can choose from (Minimal, Detailed, and Creative).  
+Each one is ready to use — just replace links, emails, or any placeholder text.
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,github,vscode,mongodb,mysql" />
-</p>
+## 🧩 Summary of Approach
+I designed the following templates based on:
+- Your skills and current learning journey (Modern Web & App Development)
+- Your education (SMIT, UBIT)
+- Your goal (to become a Web Developer)
+- Clean formatting and GitHub-friendly markdown
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
+# 🌟 Template 1 — Minimal & Professional
+
+```markdown
+# Muhammad Ahsan 👋
+
+**Aspiring Web Developer** — focused on modern web & app development.  
+Currently learning and building projects while studying at **SMIT, UBIT**.
 
 ---
 
-### 💬 Let's Connect!
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## 🔭 What I do
+- Frontend: HTML, CSS, JavaScript
+- Backend: (Learning fundamentals — Node.js, Express, databases)
+- Building responsive websites and simple web apps
+
+## 📚 Currently learning
+- Modern JavaScript (ES6+), DOM, Fetch API
+- Frontend frameworks (React / Vue) — beginner projects
+- Basic backend & REST APIs
+
+## 🎓 Education
+**SMIT, UBIT** — Courses: HTML, CSS, JavaScript, Frontend, Backend
+
+## 🎯 Goal
+Become a professional **Web Developer** — build clean, accessible, responsive web apps.
+
+## 🛠️ Projects
+> *(Replace these with your real projects and links)*  
+- **Todo List App** — Simple CRUD todo list (HTML/CSS/JS) — `link`  
+- **Portfolio Website** — Personal site with project showcases — `link`
+
+## 📫 Contact
+- Email: `youremail@example.com`  
+- GitHub: [github.com/your-username](https://github.com/your-username)
 
 ---
 
-### ⚡ Fun Fact  
-> "The best way to learn development is by **building** something — no matter how small."
-
----
-
-⭐️ *From Muhammad Ahsan — keep coding and never stop learning!*
+> ⚡ I love learning by building. Check out my repos and follow along!
