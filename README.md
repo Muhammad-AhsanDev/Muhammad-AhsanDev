@@ -1,61 +1,63 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
 <h3 align="center">Computer Science Student | Java & Web Developer</h3>
 
-<p align="center">
-  🎓 CS Student (3rd Semester) <br>
-  💻 Web Development Student at Saylani <br>
-  ☕ Currently learning Java & OOP <br>
-  🚀 Passionate about building real-world projects
-</p>
-
 ---
 
 ## 👨‍💻 About Me
+- 🎓 CS Student (3rd Semester) at **QUID University**
+- 🌐 Web Development Student at **Saylani**
+- ☕ Currently learning **Java & OOP**
+- 💻 Interested in Backend & Full-Stack Development
+- 📍 Karachi, Pakistan
 
-- 🎓 Computer Science student at **QUID University**
-- 📍 Based in **Karachi, Pakistan**
-- 🧠 Strong fundamentals in **Java, OOP, and Programming Logic**
-- 🌐 Learning **Web Development (HTML, CSS, JavaScript)** at **Saylani**
-- 🛠️ Built multiple **console-based & logic-focused projects**
-- 📚 Always curious to learn new technologies
+---
+
+## 🚀 Projects
+- 🖧 **Multi-Client Server (Java Sockets, Console-Based)**
+- ⏰ **Alarm Program (Java, Console-Based)**
+- ✅ **To-Do List (Java / JavaScript basics)**
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Languages
-- Java  
-- JavaScript  
-
-### 🌐 Web Development
-- HTML5  
-- CSS3  
-- Bootstrap  
-
-### 🧰 Tools & Concepts
-- Git & GitHub  
-- Object-Oriented Programming (OOP)  
-- Console-Based Applications  
-
----
-
-## 🚀 Projects Highlights
-
-- 🖧 **Multi-Client Server (Console-Based)**  
-  Java socket programming project where multiple clients connect and communicate via a server.
-
-- ⏰ **Alarm Program (Console-Based)**  
-  Java-based alarm application focusing on logic and time handling.
-
-- ✅ **To-Do List (Java / JS Basics)**  
-  Simple productivity app to practice logic and CRUD concepts.
-
-*(More projects coming soon…)*
+**Languages:** Java, JavaScript  
+**Web:** HTML5, CSS3, Bootstrap  
+**Tools:** Git, GitHub, OOP  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadahsan&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahsan&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahsan&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile!*
